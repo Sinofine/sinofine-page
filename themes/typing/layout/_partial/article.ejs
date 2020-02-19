@@ -47,14 +47,8 @@
   <% } %>
 </article>
 
-<% if (!index && post.comments && config.disqus_shortname){ %>
+<% if (!index && post.comments){ %>
   <section id="comments" class="comments">
     <div id="disqus_thread"></div>
-  </section>
-<% } %>
-
-<% if(!index && post.comments && theme.valine.enable && theme.valine.appId && theme.valine.appKey){ %>
-  <section id="comments" class="comments">
-    <div id="valine_container"></div>
   </section>
 <% } %>
