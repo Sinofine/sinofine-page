@@ -3,7 +3,7 @@
   <script>
     (async ()=>{
       let script = document.createElement("script");
-      script.src = (await fetch("https://cdn.jsdelivr.net/npm/disqusjs@1.2/dist/disqus.js").then(_=>_.blob()));
+      script.src = URL.createObjectURL((await fetch("https://cdn.jsdelivr.net/npm/disqusjs@1.2/dist/disqus.js").then(_=>_.blob())));
       document.body.appendChild(script);
       var dsqjs = new DisqusJS({
         shortname: 'sinofine',
