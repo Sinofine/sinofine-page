@@ -37,9 +37,9 @@ icons: false
 # If "icons: true" link names will interpreted as fontawesome icon names
 # NOTICE) Use the fontawesome icon names without the fa- prefix (http://fontawesome.io/cheatsheet/)
 links:
-  book: /archives/
-  github-alt: https://github.com/sinofine
-  rss: /atom.xml
+  Archives: /archives/
+  Github: https://github.com/sinofine
+  RSS: /atom.xml
 
 feed:
   type: atom
