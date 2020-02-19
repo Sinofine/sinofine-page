@@ -4,14 +4,15 @@
     (async ()=>{
       let script = document.createElement("script");
       script.src = URL.createObjectURL((await fetch("https://cdn.jsdelivr.net/npm/disqusjs@1.2/dist/disqus.js").then(_=>_.blob())));
-      document.body.appendChild(script);
-      var dsqjs = new DisqusJS({
+      script.onload = ()=>
+        new DisqusJS({
         shortname: 'sinofine',
         siteName: 'Sinofine Lotus',
         url: '<%= page.permalink %>',
         title: '<%= page.title %>',
         apikey: 'gI2J8BnpsPRYnccBNiCE7r0ZbnThSGomr3tZ4FRhs0OwichnbVFnKPOCwWIKYmqA',
       });
+      document.body.appendChild(script);
     })()
     </script>
 <% } %>
