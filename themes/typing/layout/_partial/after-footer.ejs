@@ -1,0 +1,18 @@
+<% if ( !is_home() && !is_archive()) { %>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/disqusjs@1.2/dist/disqusjs.css">
+  <script>
+    (async ()=>{
+      let script = document.createElement("script");
+      script.src = (await fetch("https://cdn.jsdelivr.net/npm/disqusjs@1.2/dist/disqus.js").then(_=>_.blob()));
+      var dsqjs = new DisqusJS({
+        shortname: 'sinofine',
+        siteName: 'Sinofine Lotus',
+        url: '<%= page.permalink %>',
+        title: '<%= page.title %>',
+        apikey: 'gI2J8BnpsPRYnccBNiCE7r0ZbnThSGomr3tZ4FRhs0OwichnbVFnKPOCwWIKYmqA',
+      });
+    })
+    </script>
+<% } %>
+
+<%- js('js/typing') %>
