@@ -4,8 +4,9 @@ dark: false
 # Header
 menu:
   Home: /
-  Archives: /archives
-  About: /about
+  Archives: /archives/
+  About: /about/
+  Links: /links/
 
 # Your Feed Location
 #rss: /atom.xml
@@ -38,6 +39,7 @@ icons: false
 # NOTICE) Use the fontawesome icon names without the fa- prefix (http://fontawesome.io/cheatsheet/)
 links:
   Archives: /archives/
+  Links: /links/
   Github: https://github.com/sinofine
   RSS: /atom.xml
 
