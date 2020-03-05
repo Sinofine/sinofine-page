@@ -71,6 +71,10 @@ body {
                 <img src="https://gravatar.cat.net/avatar/d0b3bc8c616d20b72ba5d59a7a1c6c79?s=100" alt="Haotown" class="avatar">
                 <h3>HAOTOWN</h3>
                 <figure>疯狂减肥带</figure>
+            </article></a><a href="https://diygod.me/"><article class="friends">
+                <img src="https://cdn.jsdelivr.net/gh/DIYgod/diygod.me@gh-pages/images/DIYgod.jpg" alt="Haotown" class="avatar" width="100" height="100">
+                <h3>DIYGod</h3>
+                <figure>网红</figure>
             </article></a>
         </div>
     </main>
