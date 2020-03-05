@@ -30,7 +30,7 @@ article.friends {
     margin: 0.5em;
     flex-direction: column;
 }
-img.avatar {border-radius: 100%;width: fit-content;height: fit-content;align-self: center;}
+img.avatar {border-radius: 100%;width: 5em;height: 5em;align-self: center;}
 .friends-container {
     display: flex;
     width: fit-content;
