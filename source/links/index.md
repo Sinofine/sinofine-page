@@ -63,12 +63,12 @@ body {
         <h1>Friends</h1>
         <div class="friends-container">
             <a href="https://bokutake.com"><article class="friends">
-                <img src="https://gravatar.cat.net/avatar/86ef10df2865daf36471371b8260e138?s=100" alt="Bokutake" class="avatar">
+                <img src="https://secure.gravatar.com/avatar/86ef10df2865daf36471371b8260e138?s=100" alt="Bokutake" class="avatar">
                 <h3>bokutake的小栈</h3>
                 <figure>Welt von Bokutake</figure>
             </article></a>
             <a href="https://haotown.cn/"><article class="friends">
-                <img src="https://gravatar.cat.net/avatar/d0b3bc8c616d20b72ba5d59a7a1c6c79?s=100" alt="Haotown" class="avatar">
+                <img src="https://secure.gravatar.com/avatar/d0b3bc8c616d20b72ba5d59a7a1c6c79?s=100" alt="Haotown" class="avatar">
                 <h3>HAOTOWN</h3>
                 <figure>疯狂减肥带</figure>
             </article></a><a href="https://diygod.me/"><article class="friends">

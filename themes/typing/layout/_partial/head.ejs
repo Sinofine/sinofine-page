@@ -2,10 +2,8 @@
   <meta charset="utf-8">
   <%
   var title = page.title;
-
   if (is_archive()){
     title = __('archive_a');
-
     if (is_month()){
       title += ': ' + page.year + '/' + page.month;
     } else if (is_year()){
@@ -32,6 +30,6 @@
   <% } else if (theme.rss) { %>
     <link rel="alternate" href="<%- url_for(theme.rss) %>" title="<%= config.title %>" type="application/atom+xml">
   <% } %>
-  <link rel="icon" href="https://cdn.jsdelivr.net/gh/sinofine/page-files@0.1/favicon.png">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sinofine/page-files@0.2/typing.css">
+  <link rel="icon" href="https://cdn.jsdelivr.net/gh/sinofine/sinofine-page@gh-pages/favicon.png">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sinofine/sinofine-page@gh-pages/css/typing.css">
 </head>
