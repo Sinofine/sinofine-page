@@ -72,11 +72,15 @@ body {
                 <h3>HAOTOWN</h3>
                 <figure>疯狂减肥带</figure>
             </article></a><a href="https://diygod.me/"><article class="friends">
-                <img src="https://cdn.jsdelivr.net/gh/DIYgod/diygod.me@gh-pages/images/DIYgod.jpg" alt="Haotown" class="avatar" width="100" height="100">
+                <img src="https://cdn.jsdelivr.net/gh/DIYgod/diygod.me@gh-pages/images/DIYgod.jpg" alt="DIYGOD " class="avatar" width="100" height="100">
                 <h3>DIYGod</h3>
                 <figure>网红</figure>
+            </article></a><a href="https://yecl.net/"><article class="friends">
+                <img src="https://sm.ms/image/OUNRqcV62gatu8M" alt="YECL" class="avatar" width="100" height="100">
+                <h3>夜绫千裕</h3>
+                <figure>认证用户（请使用代理）</figure>
             </article></a>
         </div>
-    </main>
+    </main> 
 </body>
 </html>
