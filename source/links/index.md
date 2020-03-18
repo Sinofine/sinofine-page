@@ -76,7 +76,7 @@ body {
                 <h3>DIYGod</h3>
                 <figure>网红</figure>
             </article></a><a href="https://yecl.net/"><article class="friends">
-                <img src="https://sm.ms/image/OUNRqcV62gatu8M" alt="YECL" class="avatar" width="100" height="100">
+                <img src="https://i.loli.net/2020/03/18/OUNRqcV62gatu8M.png" alt="YECL" class="avatar" width="100" height="100">
                 <h3>夜绫千裕</h3>
                 <figure>认证用户（请使用代理）</figure>
             </article></a>
