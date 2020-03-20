@@ -79,6 +79,10 @@ body {
                 <img src="https://i.loli.net/2020/03/18/OUNRqcV62gatu8M.png" alt="YECL" class="avatar" width="100" height="100">
                 <h3>夜绫千裕</h3>
                 <figure>认证用户（请使用代理）</figure>
+            </article></a><a href="https://yuki.yuki233.com/"><article class="friends">
+                <img src="https://i.loli.net/2020/03/20/AsjGK1p3XxNyDZk.png" alt="yuki" class="avatar" width="100" height="100">
+                <h3>初雪</h3>
+                <figure>雪次元</figure>
             </article></a>
         </div>
     </main> 
