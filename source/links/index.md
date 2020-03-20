@@ -90,6 +90,10 @@ body {
                 <img src="https://i.loli.net/2019/12/10/uqBgf2D3Hpzdr6x.jpg" alt="xiaofu" class="avatar" width="100" height="100">
                 <h3>我是小福</h3>
                 <figure>R3</figure>
+            </article></a><a href="https://www.mokeyjay.com/"><article class="friends">
+                <img src="https://www.mokeyjay.com/headimg.png" alt="mokeyjay" class="avatar" width="100" height="100">
+                <h3>Mokeyjay</h3>
+                <figure>超能小紫</figure>
             </article></a>
         </div>
     </main> 
