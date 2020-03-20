@@ -34,6 +34,8 @@ img.avatar {border-radius: 100%;width: 5em;height: 5em;align-self: center;}
 .friends-container {
     display: flex;
     width: fit-content;
+    align-content: center;
+    justify-content: center;
 }
 .friends h3 {
     margin: 0.5em auto;
@@ -83,6 +85,10 @@ body {
                 <img src="https://i.loli.net/2020/03/20/AsjGK1p3XxNyDZk.png" alt="yuki" class="avatar" width="100" height="100">
                 <h3>初雪</h3>
                 <figure>雪次元</figure>
+            </article></a><a href="https://woshixiaofu666.github.io/"><article class="friends">
+                <img src="https://i.loli.net/2019/12/10/uqBgf2D3Hpzdr6x.jpg" alt="xiaofu" class="avatar" width="100" height="100">
+                <h3>我是小福</h3>
+                <figure>R3</figure>
             </article></a>
         </div>
     </main> 
