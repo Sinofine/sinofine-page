@@ -36,6 +36,7 @@ img.avatar {border-radius: 100%;width: 5em;height: 5em;align-self: center;}
     width: fit-content;
     align-content: center;
     justify-content: center;
+    flex-wrap: wrap;
 }
 .friends h3 {
     margin: 0.5em auto;
