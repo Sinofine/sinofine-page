@@ -94,6 +94,10 @@ body {
                 <img src="https://www.mokeyjay.com/headimg.png" alt="mokeyjay" class="avatar" width="100" height="100">
                 <h3>Mokeyjay</h3>
                 <figure>超能小紫</figure>
+            </article></a><a href="https://skk.moe/"><article class="friends">
+                <img src="https://cdn.jsdelivr.net/npm/skx@0.0.1/avatar/128x128.png" alt="sukka" class="avatar" width="100" height="100">
+                <h3>Sukka</h3>
+                <figure>苏卡卡！</figure>
             </article></a>
         </div>
     </main> 
