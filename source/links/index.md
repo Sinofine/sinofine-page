@@ -98,6 +98,10 @@ body {
                 <img src="https://cdn.jsdelivr.net/npm/skx@0.0.1/avatar/128x128.png" alt="sukka" class="avatar" width="100" height="100">
                 <h3>Sukka</h3>
                 <figure>苏卡卡！</figure>
+            </article></a><a href="https://i-meto.com/"><article class="friends">
+                <img src="https://i-meto.com/wp-content/uploads/2019/12/2666735-1.jpeg" alt="metowolf" class="avatar" width="100" height="100">
+                <h3>metowolf</h3>
+                <figure>萨摩！</figure>
             </article></a>
         </div>
     </main> 
