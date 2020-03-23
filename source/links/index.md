@@ -102,6 +102,10 @@ body {
                 <img src="https://i-meto.com/wp-content/uploads/2019/12/2666735-1.jpeg" alt="metowolf" class="avatar" width="100" height="100">
                 <h3>metowolf</h3>
                 <figure>萨摩！</figure>
+            </article></a><a href="https://milkice.me/"><article class="friends">
+                <img src="https://static.milkice.yecdn.com/wp-content/uploads/2020/03/avatar.jpg" alt="milkice" class="avatar" width="100" height="100">
+                <h3>milkice</h3>
+                <figure>奶冰！</figure>
             </article></a>
         </div>
     </main> 
