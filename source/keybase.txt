@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/sinofine
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://sinofine.me
+  * I am sinofine (https://keybase.io/sinofine) on keybase.
+  * I have a public key with fingerprint FE45 2192 698B DE5F E05C  78F0 73E8 0EE2 06DF 3B4E
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101f191d3076c034891954bdd4f3a889e0b62f62f721c709601edd81cc528930c2c0a",
+      "fingerprint": "fe452192698bde5fe05c78f073e80ee206df3b4e",
+      "host": "keybase.io",
+      "key_id": "73e80ee206df3b4e",
+      "kid": "0101f191d3076c034891954bdd4f3a889e0b62f62f721c709601edd81cc528930c2c0a",
+      "uid": "c2dda667c28c4bbf308715e4a0227c19",
+      "username": "sinofine"
+    },
+    "service": {
+      "hostname": "sinofine.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1584951671,
+  "expire_in": 157680000,
+  "prev": "02c53172c45bf596a4f19408c3ac362102c449927f725311256efa091b572947",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMM3AnicrVJrTBxVGF3eWSwFItQ0EITBAioh834sCpUSaCsL/SPddonLzJ07dAR2
+2d1hAQlaA0WlULtJ2bYWsdJCSRUl1KjllbC2NqIRC6EKW3m0oTbYqiA/7CLWGaJ/
+jD+9ucnN/b5zvnvOyb0SEaQLD3De3XordD6zMOCrMU+17sVae009ItjEOsRQj5TD
+zQNWiNCpWMplETEgKIZiEsZhIoEyNEAJkuUwjiIFUSQlgmdZDqICjUvqZnAMMChH
+oxgURRYDgMJZjkABDlAeSUck2VoGHVUO2aqoYyVIUjjG4TTHCiKkJIhSgGEllCEg
+i0KIo7QoEQIJVeIhm1NjqOIE3gkzZJtaUy+WTXn/gf+fdVdvjgO4KPI0zQCcBaQg
+SATKMhgFSR7FcQZgnAZ0QoeVr4Qq2ilbbapfiDSkI2rVJQOoBas5+Rcio1KTXOWw
+KTZgq1AbhxSlymnQiEpdlYasgYLl7xkWQbaKaowqwwUdTtlmRQyYigSKrA3FKJbk
+KIxmsHQE1lbJDmiRNQTF0CyqLu0d6NKywQFFYAwOSEqQKI7mSTUpEmUBwQOCxjG1
+T5IchzNqNioQwykaSjzKYQLF4BzJIJoru9WGGChVJl+26afMyivVDtWyd6wkWBcQ
+rgsNCdS+ly5cH/XPp/Oej1wPe/j4emJE/dbdKffCVrL7PtHnK/ru5eqovJ495pQ/
+uesFYG9R29Lec1ue9bhPBfuvXX6uvyu1tOCzKwv0QPz0RblzOIvvkN9On3YvznOP
+/j6/Gr2YNzW2JaI2ZrRzaTbs3PDxl4qa2JR7k6sJWbd7bvPWp6bTbhDNce9ZXt/h
+TD0wNd0+314v97YszIWejozeJ+jbyJ8fiT3W7fo4KLRxJP7Etgy+z0usJ5ke2rv7
+xmOPbHw0p79ZIncNu9bx6qa8tMGWd7zbfd+8Gtl2KmY4cM2lTA187V85f+3EPOym
+it1G12jvweLg8aQ7+/bH52YdiFvMARNxR2d/LH3m+9iEB0P+wfB3S82X3nSU95cV
+Lq+/n6jsvzTwwWFuZe2F7aMznsk0469ud7Y5wvfYjI0PzEgtGf+84WSxyfvk0pGO
+tJ0/xJzsGt3IbQ4deSLKZA+4VRSdfacwp/Fq0lH6rdmKnCUm+Ys6Qzu1bXfmp3sO
+bzQYn7+8ch/m30S5LzmzeRA52Hrhj+aYNz5cXbs/+W3DROcuT8aOX+ZeOWsKCWzH
+Xz5r9525G5F0Y3SX6UHmQmt+faupwzTTvyom+6Zgw4Q5qDMwseRqz4W+oSG7P6Tp
+u/LfxpqyjuMt1Ihd33W9wEhN6Z7OETyNO3/yVNqXo3OTi18bqEnIHGzy+8BpvXAR
+njHCXvQvf5u7mw==
+=VhVz
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sinofine
+
+==================================================================
