@@ -106,6 +106,10 @@ body {
                 <img src="https://static.milkice.yecdn.com/wp-content/uploads/2020/03/avatar.jpg" alt="milkice" class="avatar" width="100" height="100">
                 <h3>milkice</h3>
                 <figure>奶冰！</figure>
+            </article></a><a href="https://moedog.org/"><article class="friends">
+                <img src="https://gravatar.loli.net/avatar/5e6892e999ca8c85a358d21164167f38?s=128" alt="inu" class="avatar" width="100" height="100">
+                <h3>犬</h3>
+                <figure>狗子！</figure>
             </article></a>
         </div>
     </main> 
