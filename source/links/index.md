@@ -110,6 +110,10 @@ body {
                 <img src="https://gravatar.loli.net/avatar/5e6892e999ca8c85a358d21164167f38?s=128" alt="inu" class="avatar" width="100" height="100">
                 <h3>犬</h3>
                 <figure>狗子！</figure>
+            </article></a><a href="https://bottle.moe"><article class="friends">
+                <img src="https://cdn.jsdelivr.net/gh/BottleSome/blog@20200212/avatar.png" alt="bottle" class="avatar" width="100" height="100">
+                <h3>Bottle</h3>
+                <figure>Somebottle的博客</figure>
             </article></a>
         </div>
     </main> 
