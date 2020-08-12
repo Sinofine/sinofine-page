@@ -110,6 +110,10 @@ body {
                 <img src="https://cdn.jsdelivr.net/gh/BottleSome/blog@20200212/avatar.png" alt="bottle" class="avatar" width="100" height="100">
                 <h3>Bottle</h3>
                 <figure>Somebottle的博客</figure>
+            </article></a><a href="https://ratizux.github.io/"><article class="friends">
+                <img src="https://avatars1.githubusercontent.com/u/45143513" alt="ratizux" class="avatar" width="100" height="100">
+                <h3>Ratizux</h3>
+                <figure>Stay hungry, stay foolish.</figure>
             </article></a>
         </div>
     </main> 
