@@ -114,6 +114,10 @@ body {
                 <img src="https://avatars1.githubusercontent.com/u/45143513" alt="ratizux" class="avatar" width="100" height="100">
                 <h3>Ratizux</h3>
                 <figure>Stay hungry, stay foolish.</figure>
+            </article></a><a href="https://woshixiaofu666.github.io/"><article class="friends">
+                <img src="https://i.loli.net/2019/12/10/uqBgf2D3Hpzdr6x.jpg" alt="woshixiaofu" class="avatar" width="100" height="100">
+                <h3>我是小福</h3>
+                <figure>Recite,Rewrite,Restart</figure>
             </article></a>
         </div>
     </main> 
