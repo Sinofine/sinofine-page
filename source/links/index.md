@@ -118,6 +118,10 @@ body {
                 <img src="https://i.loli.net/2019/12/10/uqBgf2D3Hpzdr6x.jpg" alt="woshixiaofu" class="avatar" width="100" height="100">
                 <h3>我是小福</h3>
                 <figure>Recite,Rewrite,Restart</figure>
+            </article></a><a href="https://cireu.github.io/"><article class="friends">
+                <img src="https://i.loli.net/2020/08/25/QORM8gt1J75SXs9.jpg" alt="nil" class="avatar" width="100" height="100">
+                <h3>NIL</h3>
+                <figure>cireu Citreu</figure>
             </article></a>
         </div>
     </main> 
