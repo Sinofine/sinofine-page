@@ -122,6 +122,14 @@ body {
                 <img src="https://i.loli.net/2020/08/25/QORM8gt1J75SXs9.jpg" alt="nil" class="avatar" width="100" height="100">
                 <h3>NIL</h3>
                 <figure>cireu Citreu</figure>
+            </article></a><a href="https://blog.piggy.moe/"><article class="friends">
+                <img src="https://avatars2.githubusercontent.com/u/61851016" alt="nil" class="avatar" width="100" height="100">
+                <h3>Piggy</h3>
+                <figure>好耶，是佩吉！</figure>
+            </article></a></a><a href="https://blog.yuzu.im/"><article class="friends">
+                <img src="https://blog.131.yecdn.com/usr/uploads/2019/06/3153325051.jpg" alt="nil" class="avatar" width="100" height="100">
+                <h3>Netrvin</h3>
+                <figure>131！</figure>
             </article></a>
         </div>
     </main> 
