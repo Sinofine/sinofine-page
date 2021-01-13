@@ -130,6 +130,10 @@ body {
                 <img src="https://blog.131.yecdn.com/usr/uploads/2019/06/3153325051.jpg" alt="nil" class="avatar" width="100" height="100">
                 <h3>Netrvin</h3>
                 <figure>131！</figure>
+            </article></a></a></a><a href="https://roriri.one/"><article class="friends">
+                <img src="https://roriri.one/images/avatars/losses.png" alt="losses" class="avatar" width="100" height="100">
+                <h3>Losses Don</h3>
+                <figure>天才少女螺莉莉！</figure>
             </article></a>
         </div>
     </main> 
