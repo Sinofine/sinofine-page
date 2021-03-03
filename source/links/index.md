@@ -134,6 +134,10 @@ body {
                 <img src="https://roriri.one/images/avatars/losses.png" alt="losses" class="avatar" width="100" height="100">
                 <h3>Losses Don</h3>
                 <figure>天才少女螺莉莉！</figure>
+            </article></a></a></a><a href="https://www.csslayer.info/wordpress/"><article class="friends">
+                <img src="https://avatars.githubusercontent.com/u/259684?s=460&v=4" alt="csslayer" class="avatar" width="100" height="100">
+                <h3>CSSlayer</h3>
+                <figure>老K！</figure>
             </article></a>
         </div>
     </main> 
